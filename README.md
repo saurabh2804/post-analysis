@@ -1,4 +1,4 @@
-# post-analysis
+# Post-analysis
 Analysing Gromacs repository  
 The repository carries scripts to analyse the MD simulation trajectories obtained from gromacs  
 Change the file names before you use the script. This one analyses the files generated with CHARMM-GUI (after running the simulation)
